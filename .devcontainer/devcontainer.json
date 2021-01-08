@@ -74,7 +74,8 @@
     "visualstudioexptteam.vscodeintellicode", // Visutal Studio IntelliCode
     "coenraads.bracket-pair-colorizer-2", // Bracket Pair Colorizer 2
     "msjsdiag.debugger-for-chrome", // Debugger for Chrome
-    "vscodevim.vim" // Vim
+    "vscodevim.vim", // Vim
+    "christian-kohler.path-intellisense" // Path Intellisense
   ],
 
   // Use 'forwardPorts' to make a list of ports inside the container available locally.

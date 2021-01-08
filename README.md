@@ -1,7 +1,7 @@
 # react-sandbox
 ## Set Up
 
-`.devcontainer/setup.sh`, which runs after building container, install `nodenv` and `node-build` automatically.
+`.devcontainer/setup.sh`, which runs after building container, installs `nodenv` and `node-build` automatically.
 
 ```
 $ nodenv install -l                 // find latest version
@@ -12,11 +12,11 @@ $ npm install -g create-react-app   // for create-react-app
 
 ### Warning
 
-`npx create-react-app` **does not work without** `npm install -g create-react-app`.
+`npx create-react-app` **does not work** in this invironment (Ubuntu: focal container)
 (I searched for the cause but not found)
 ## Create React App
 
 ```
-$ npx create-react-app --template typescript
+$ create-react-app <app-name> --template typescript
 ```
 

@@ -1,6 +1,8 @@
 
 # Simple Todo
 
+![simple_todo_demo.png](simple_todo_demo.png)
+
 # Draft
 
 ## UI Template
@@ -11,7 +13,6 @@ Material-UI (v4.11.1)
 yarn add @material-ui/core
 yarn add fontsource-roboto
 yarn add @material-ui/icons
-
 ```
 
 ## Components / Data

@@ -25,6 +25,12 @@
     "npm.packageManager": "yarn",
     "typescript.enablePromptUseWorkspaceTsdk": true,
     "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[html]": {
+      "editor.tabSize": 2,
+      "editor.suggest.insertMode": "replace",
+      "gitlens.codeLens.scopes": ["document"],
+      "editor.formatOnSave": true
+    },
     "[css]": {
       "editor.tabSize": 2,
       "editor.suggest.insertMode": "replace",

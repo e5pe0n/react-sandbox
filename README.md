@@ -8,6 +8,7 @@ $ nodenv install -l                 // find latest version
 $ nodenv install <version>          // and specify it as <version>
 $ nodenv global <version>
 $ npm install -g create-react-app   // for create-react-app
+$ exec $SHELL -l
 ```
 
 ### Warning

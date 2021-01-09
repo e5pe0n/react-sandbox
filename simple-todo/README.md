@@ -15,6 +15,8 @@ yarn add fontsource-roboto
 yarn add @material-ui/icons
 ```
 
+Add `import "fontsource-roboto"` into `index.tsx`.
+
 ## Components / Data
 
 Container
